@@ -43,5 +43,3 @@ Each module contains:
 | Pandas / NumPy | Data processing |
 | Matplotlib / Seaborn | Data visualization |
 | Jupyter Notebook | Experimentation and explanation |
-
----
